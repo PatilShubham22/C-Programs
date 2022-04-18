@@ -1,7 +1,6 @@
 /// ASCII To Character
 
 #include<stdio.h>
-#include<conio.h>
 
 int main()
 {

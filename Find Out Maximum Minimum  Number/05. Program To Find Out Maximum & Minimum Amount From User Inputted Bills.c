@@ -5,7 +5,7 @@
 
 int main()
 {
-	int i = 0, Cnt = 0, Amount = 0, Neg = 0, Min_Bill = 0, Max_Bill = 0;
+	int i = 0, Cnt = 0, Amount = 0, Min_Bill = 0, Max_Bill = 0;
 	
 	printf("Enter How Many Biils Do You Have = ");
 	scanf("%d",&Cnt);
